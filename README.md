@@ -13,7 +13,6 @@
 ## Data Lake
 
 - [Principled Data Engineering, Part I: Architectural Overview](https://medium.com/ssense-tech/principled-data-engineering-part-i-architectural-overview-6d4bdf89b657)
-![](https://i.imgur.com/zUbdurN.png)
 - [Principled Data Engineering, Part II: Data Governance](https://medium.com/ssense-tech/principled-data-engineering-part-ii-data-governance-30297abb2446)
 - [Building Data Lakes and Analytics on AWS: Patterns and Best Practices](https://es.slideshare.net/AmazonWebServices/building-data-lakes-and-analytics-on-aws-patterns-and-best-practices-bda305-chicago-aws-summit)
 

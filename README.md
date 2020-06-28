@@ -22,3 +22,7 @@
 ## Data Flow
 
 - [Implementing the functional data engineering paradigm in data load processes by using Airflow](https://towardsdatascience.com/implementing-the-functional-data-engineering-paradigm-in-data-load-processes-by-using-airflow-61d3bae486b0)
+
+## Practicum
+
+- [DATA ENGINEER 100 DAYS](https://github.com/yennanliu/DE-100-days)
